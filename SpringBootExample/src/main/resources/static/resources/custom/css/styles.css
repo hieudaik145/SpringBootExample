@@ -1,0 +1,10 @@
+
+.login{
+	height: 1000px;
+	background-image: url('/resources/images/background.jpg');
+    width:xxpx;
+    height:xxpx;
+}
+.form-group {
+	width: 30%;
+}
